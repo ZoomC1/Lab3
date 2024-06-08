@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egors\\Lab 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DCE6C7-1178-D5B9-7EF1-FB44D966C1C6}|Assembly-CSharp.csproj|C:\\Users\\egors\\Lab 2\\assets\\cannonball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DCE6C7-1178-D5B9-7EF1-FB44D966C1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\cannonball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DCE6C7-1178-D5B9-7EF1-FB44D966C1C6}|Assembly-CSharp.csproj|c:\\users\\egors\\lab 2\\assets\\cannoncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DCE6C7-1178-D5B9-7EF1-FB44D966C1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\cannoncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cannonball.cs",
+              "DocumentMoniker": "C:\\Users\\egors\\Lab 2\\Assets\\Cannonball.cs",
+              "RelativeDocumentMoniker": "Assets\\Cannonball.cs",
+              "ToolTip": "C:\\Users\\egors\\Lab 2\\Assets\\Cannonball.cs",
+              "RelativeToolTip": "Assets\\Cannonball.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:08:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CannonControl.cs",
+              "DocumentMoniker": "C:\\Users\\egors\\Lab 2\\Assets\\CannonControl.cs",
+              "RelativeDocumentMoniker": "Assets\\CannonControl.cs",
+              "ToolTip": "C:\\Users\\egors\\Lab 2\\Assets\\CannonControl.cs",
+              "RelativeToolTip": "Assets\\CannonControl.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:49:54.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
